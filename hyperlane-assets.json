@@ -1,0 +1,52 @@
+[
+  {
+    "name": "WIF",
+    "address": "841P4tebEgNux2jaWSjCoi9LhrVr9eHGjLc758Va3RPH",
+    "decimals": 6
+  },
+  {
+    "name": "USDC",
+    "address": "AKEWE7Bgh87GPp171b4cJPSSZfmZwQ3KaqYqXoKLNAEE",
+    "decimals": 6
+  },
+  {
+    "name": "SOL",
+    "address": "BeRUj3h7BqkbdfFU7FBNYbodgf8GCHodzKvF9aVjNNfL",
+    "decimals": 9
+  },
+  {
+    "name": "ORCA",
+    "address": "2tGbYEm4nuPFyS6zjDTELzEhvVKizgKewi6xT7AaSKzn",
+    "decimals": 6
+  },
+  {
+    "name": "USDT",
+    "address": "CEBP3CqAbW4zdZA57H2wfaSG1QNdzQ72GiQEbQXyW9Tm",
+    "decimals": 6
+  },
+  {
+    "name": "weETHs",
+    "address": "F72PqK74jc28zjC7kWDk6ykJ2ZAbjNzn2jaAY9v9M6om",
+    "decimals": 9
+  },
+  {
+    "name": "WBTC",
+    "address": "7UTjr1VC6Z9DPsWD6mh5wPzNtufN17VnzpKS3ASpfAji",
+    "decimals": 8
+  },
+  {
+    "name": "stTIA",
+    "address": "V5m1Cc9VK61mKL8xVYrjR7bjD2BC5VpADLa6ws3G8KM",
+    "decimals": 6
+  },
+  {
+    "name": "TIA",
+    "address": "9RryNMhAVJpAwAGjCAMKbbTFwgjapqPkzpGMfTQhEjf8",
+    "decimals": 6
+  },
+  {
+    "name": "TETH",
+    "address": "GU7NS9xCwgNPiAdJ69iusFrRfawjDDPjeMBovhV1d4kn",
+    "decimals": 9
+  }
+]
